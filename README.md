@@ -1,4 +1,6 @@
 ### Hi there 👋
+Practical education is as necessary as theoretical education, and self-education is even more important. 
+
 
 <!--
 **TaliTali97/TaliTali97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
